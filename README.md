@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Surya Velpula
-- 👀 I’m interested in ...Data Analysis
-- 🌱 I’m currently learning and training as data analyst
-- 💞️ I’m looking to collaborate with any better and best organization
+- 👋 Hi, This is @Surya Velpula
+- 👀 Data Analyst with 2 years of experience
+- 🌱 I’m currently learning and training on AI Agents
 
 <!---
 Surya00solo/Surya00solo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
